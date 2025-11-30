@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Prime Football Association (PFA)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #1a1a1a;
+            padding: 20px;
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        nav {
+            background: #222;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #00c3ff;
+            margin: 10px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #00c3ff;
+        }
+        .stream-box {
+            border: 2px solid #00c3ff;
+            padding: 10px;
+            background: #000;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>Prime Football Association</header>
+
+<nav>
+    <a href="#news">News</a>
+    <a href="#schedule">Match Schedule</a>
+    <a href="#standings">Standings</a>
+    <a href="#rules">Rules</a>
+    <a href="#staff">Staff/Admins</a>
+    <a href="#stream">Live Stream</a>
+    <a href="YOUR_DISCORD_INVITE_LINK">Join Discord</a>
+</nav>
+
+<section id="news">
+    <h2>News & Updates</h2>
+    <p>No news yet — stay tuned!</p>
+</section>
+
+<section id="schedule">
+    <h2>Match Schedule</h2>
+    <p>Match schedule will appear here.</p>
+</section>
+
+<section id="standings">
+    <h2>Standings / Rankings</h2>
+    <p>Standings will appear here.</p>
+</section>
+
+<section id="rules">
+    <h2>League Rules</h2>
+    <p>Rules will be listed here.</p>
+</section>
+
+<section id="staff">
+    <h2>Staff & Admins</h2>
+    <p>• Owner: YOU<br>• Admins: add names here</p>
+</section>
+
+<section id="stream">
+    <h2>Live Match Stream</h2>
+    <div class="stream-box">
+        <p>Insert your stream here (YouTube/Twitch link)</p>
+    </div>
+</section>
+
+<footer style="text-align:center; padding:20px; background:#111;">
+    © 2025 Prime Football Association
+</footer>
+
+</body>
+</html>
